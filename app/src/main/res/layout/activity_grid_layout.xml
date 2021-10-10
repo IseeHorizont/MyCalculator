@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:background="@android:color/holo_blue_dark">
+
+
+    <Button
+        android:id="@+id/key_divided"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_divided"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_multiply"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_multiply"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_minus"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_minus"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_plus"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_plus"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_1"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_2"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_3"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_4"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_5"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_6"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_6"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_7"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_7"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_8"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_8"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_9"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_9"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_0"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_0"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_point"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_point"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+    <Button
+        android:id="@+id/key_equals"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/key_equals"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill_horizontal" />
+
+</GridLayout>
