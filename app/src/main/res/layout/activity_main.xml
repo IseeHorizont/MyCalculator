@@ -6,7 +6,5 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <include
-        layout="@layout/activity_grid_layout" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
